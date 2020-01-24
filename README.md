@@ -6,7 +6,7 @@ Detect Fake News (from https://data-flair.training/blogs/advanced-python-project
 ```bash
 $ pipenv install numpy pandas sklearn jupyterlab
 $ pipenv shell
-$ jupyter lab
+$ (passive-agressive-classifier)$ jupyter lab
 ```
 
 ### TODO
@@ -14,5 +14,6 @@ $ jupyter lab
 - [ ] Create requirements.py
 - [ ] Test with pipenv
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjE0NzUxOSw1NjMyOTk2NzNdfQ==
+eyJoaXN0b3J5IjpbLTExOTc4ODM1MTEsLTY3NjE0NzUxOSw1Nj
+MyOTk2NzNdfQ==
 -->
