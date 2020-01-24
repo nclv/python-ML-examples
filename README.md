@@ -10,10 +10,9 @@ $ (passive-agressive-classifier)$ jupyter lab
 ```
 
 ### TODO
-- [ ] Use jupyter
-- [ ] Create requirements.py
-- [ ] Test with pipenv
+- [x] Use jupyterlab
+- [x] Test with pipenv
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc4ODM1MTEsLTY3NjE0NzUxOSw1Nj
-MyOTk2NzNdfQ==
+eyJoaXN0b3J5IjpbLTIwNjMxOTE0MjQsLTExOTc4ODM1MTEsLT
+Y3NjE0NzUxOSw1NjMyOTk2NzNdfQ==
 -->
