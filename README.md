@@ -3,12 +3,14 @@ Detect Fake News (from https://data-flair.training/blogs/advanced-python-project
 
 ## Installation
 
-`$ pipenv install numpy pandas sklearn`
+```bash
+$ pipenv install numpy pandas sklearn
+```
 
 ### TODO
 - [ ] Use jupyter
 - [ ] Create requirements.py
 - [ ] Test with pipenv
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjQyODM1N119
+eyJoaXN0b3J5IjpbNTYzMjk5NjczXX0=
 -->
