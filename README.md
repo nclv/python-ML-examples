@@ -20,3 +20,13 @@ $ pipenv shell
 $ (xgboost)$ jupyter lab
 ```
 
+## knowledge-graph
+
+How to build a knowledge graph (from https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/?utm_source=blog&utm_medium=introduction-graph-theory-applications-python)
+
+```bash
+$ pipenv install pandas spacy networkx matplotlib tqdm jupyterlab
+$ pipenv shell
+$ (knowledge-graph)$ python -m spacy download en_core_web_sm
+$ (knowledge-graph)$ jupyter lab
+```
