@@ -9,7 +9,7 @@ $ (passive-agressive-classifier)$ jupyter lab
 ```
 
 ## xgboost
-[Detect Parkinson Disease](from https://data-flair.training/blogs/python-machine-learning-project-detecting-parkinson-disease/)
+[Detect Parkinson Disease](https://data-flair.training/blogs/python-machine-learning-project-detecting-parkinson-disease/)
 
 ```bash
 $ pipenv install numpy pandas sklearn xgboost jupyterlab
