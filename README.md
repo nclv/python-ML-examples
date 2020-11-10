@@ -1,8 +1,6 @@
 # python-ML-examples
 ## passive-aggressive-classifier
-Detect Fake News (from https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)
-
-### Installation
+[Detect Fake News](https://data-flair.training/blogs/advanced-python-project-detecting-fake-news/)
 
 ```bash
 $ pipenv install numpy pandas sklearn jupyterlab
@@ -11,8 +9,7 @@ $ (passive-agressive-classifier)$ jupyter lab
 ```
 
 ## xgboost
-
-Detect Parkinson Disease (from https://data-flair.training/blogs/python-machine-learning-project-detecting-parkinson-disease/)
+[Detect Parkinson Disease](from https://data-flair.training/blogs/python-machine-learning-project-detecting-parkinson-disease/)
 
 ```bash
 $ pipenv install numpy pandas sklearn xgboost jupyterlab
@@ -21,8 +18,7 @@ $ (xgboost)$ jupyter lab
 ```
 
 ## knowledge-graph
-
-How to build a knowledge graph (from https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/?utm_source=blog&utm_medium=introduction-graph-theory-applications-python)
+[How to build a knowledge graph](https://www.analyticsvidhya.com/blog/2019/10/how-to-build-knowledge-graph-text-using-spacy/?utm_source=blog&utm_medium=introduction-graph-theory-applications-python)
 
 ```bash
 $ pipenv install pandas spacy networkx matplotlib tqdm jupyterlab
